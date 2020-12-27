@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 02\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
-      "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 02\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
+      "projectName": "EstruturaMVC",
+      "projectPath": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
       "packagesPath": "C:\\Users\\Naule\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 02\\ProjetoZero\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\Naule\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
